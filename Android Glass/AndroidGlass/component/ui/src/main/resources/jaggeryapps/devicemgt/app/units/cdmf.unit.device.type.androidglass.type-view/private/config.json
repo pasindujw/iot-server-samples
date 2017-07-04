@@ -1,0 +1,11 @@
+
+{
+  "deviceType": {
+    "label": "Android Glass",
+    "category": "iot",
+    "downloadAgentUri": "androidglass/device/download",
+    "scopes" : [
+      "perm:androidglass:enroll"
+    ]
+  }
+}
